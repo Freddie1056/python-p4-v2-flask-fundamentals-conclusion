@@ -43,7 +43,7 @@ number of skills that will help us make flexible and powerful websites later on:
 
 In the next module, you will learn the following skills:
 
-- Creating databases and integrating them with Flask applications with
+- Creating databases and integrating them in Flask applications with
   Flask-SQLAlchemy and Flask-Migrate.
 
 ## Resources
